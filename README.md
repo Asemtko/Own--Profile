@@ -1,18 +1,31 @@
-# Responsive-web-design-Website
-**Mandatory Task!**
+Asem's Portfolio
+Welcome to my personal portfolio! This website showcases my projects, skills, and journey as an aspiring web developer.
 
-Dear Interns,
+About This Website
+This is a responsive and user-friendly personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap.
 
-The task is to completely modify/customize this bootstrap project. Use your creativity to write your first very own website with Responsive web design(RWD).
+Technologies Used
+HTML5 for structure
 
-**Your website should must contain:**
-* 5 Sections. (i-e Services,Portfolio, About etc)
-* Information about your past coding activity/projects.
-* Information about your academics (i-e Academic story,history,experience in uni etc)
-* Your favourites (i-e The preference on your favourites Activities, Food, Sports etc)
+CSS3 for styling
 
-You can manage to adjust the above points in the website sections.
+JavaScript for interactivity
 
-Should you have questions do not hesitate to contact us. We are open 24/7.
+Bootstrap for responsive design
 
-(email: TechLead@LimeLightR.org)
+Font Awesome for icons
+
+Features
+Responsive Layout: The website adapts seamlessly to all device sizes, including tablets and smartphones.
+
+Interactive Elements: Hover effects and modals for project details.
+
+Social Links: Easy access to my social media profiles (Instagram, Facebook, LinkedIn, GitHub).
+
+How to Use
+Clone or download the repository.
+
+Open the index.html file in your browser to view the website.
+
+Contact
+Feel free to reach out to me through my LinkedIn or GitHub.
